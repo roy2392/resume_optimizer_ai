@@ -1,0 +1,9 @@
+streamlit
+pinecone-client
+openai
+pdfminer.six
+requests
+beautifulsoup4
+python-dotenv
+numpy
+reportlab
