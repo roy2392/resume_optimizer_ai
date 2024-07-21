@@ -39,7 +39,7 @@ This Streamlit application optimizes resumes based on job descriptions using AI.
 
 2. Run the Streamlit app:
    ```
-   streamlit run resume_optimizer.py
+   streamlit run app.py
    ```
 
 3. Open your web browser and go to the URL provided by Streamlit (usually `http://localhost:8501`).
